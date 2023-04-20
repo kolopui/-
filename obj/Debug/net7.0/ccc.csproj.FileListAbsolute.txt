@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ccc\bin\Debug\net7.0\ccc.exe
+C:\Users\user\Desktop\ccc\bin\Debug\net7.0\ccc.deps.json
+C:\Users\user\Desktop\ccc\bin\Debug\net7.0\ccc.runtimeconfig.json
+C:\Users\user\Desktop\ccc\bin\Debug\net7.0\ccc.dll
+C:\Users\user\Desktop\ccc\bin\Debug\net7.0\ccc.pdb
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.AssemblyInfo.cs
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.dll
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\refint\ccc.dll
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.pdb
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ccc.genruntimeconfig.cache
+C:\Users\user\Desktop\ccc\obj\Debug\net7.0\ref\ccc.dll
